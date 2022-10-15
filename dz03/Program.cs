@@ -28,12 +28,9 @@ int[] massiv=new int[10];
 FillMas(massiv);
 PrintMas(massiv);
 
-// int n1=0;
-// int n2=0;
 int ind=0;
 int n1=0;
 int n2=0;
-
 
 while(ind<massiv.Length)
 {
